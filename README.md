@@ -1,4 +1,4 @@
 # college-first-demo
 This is my first Git Repository.
 <br>
-Author-Sayantan Mandal
+Author-Sayantan Mandall
